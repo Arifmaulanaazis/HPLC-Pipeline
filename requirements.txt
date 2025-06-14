@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+rdkit
+PySide6
+scipy
+umap-learn
